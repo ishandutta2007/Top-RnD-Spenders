@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <linearGradient id="bar-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+    <style>
+      .title {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 42px;
+        font-weight: 800;
+        fill: url(#text-gradient);
+      }
+      .subtitle {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        fill: #94a3b8;
+      }
+      .bar {
+        fill: url(#bar-gradient);
+        transform-origin: bottom;
+        animation: grow 2s ease-in-out infinite alternate;
+      }
+      .bar1 { animation-delay: 0s; }
+      .bar2 { animation-delay: 0.2s; }
+      .bar3 { animation-delay: 0.4s; }
+      .bar4 { animation-delay: 0.6s; }
+      .bar5 { animation-delay: 0.8s; }
+      .bar6 { animation-delay: 1.0s; }
+      .bar7 { animation-delay: 1.2s; }
+      
+      @keyframes grow {
+        0% { transform: scaleY(0.2); opacity: 0.5; }
+        100% { transform: scaleY(1); opacity: 1; }
+      }
+      
+      .dot {
+        fill: #c084fc;
+        animation: float 3s ease-in-out infinite;
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" rx="16" fill="url(#bg)" />
+  
+  <!-- Animated Background Elements -->
+  <circle cx="150" cy="50" r="4" class="dot" style="animation-delay: 0s;" />
+  <circle cx="650" cy="150" r="3" class="dot" style="animation-delay: 1s;" />
+  <circle cx="700" cy="40" r="5" class="dot" style="animation-delay: 2s;" />
+  <circle cx="50" cy="160" r="4" class="dot" style="animation-delay: 0.5s;" />
+
+  <!-- Animated Bars (Chart representation) -->
+  <g transform="translate(550, 150)">
+    <rect class="bar bar1" x="0" y="-80" width="16" height="80" rx="4" />
+    <rect class="bar bar2" x="24" y="-60" width="16" height="60" rx="4" />
+    <rect class="bar bar3" x="48" y="-100" width="16" height="100" rx="4" />
+    <rect class="bar bar4" x="72" y="-40" width="16" height="40" rx="4" />
+    <rect class="bar bar5" x="96" y="-120" width="16" height="120" rx="4" />
+    <rect class="bar bar6" x="120" y="-70" width="16" height="70" rx="4" />
+    <rect class="bar bar7" x="144" y="-90" width="16" height="90" rx="4" />
+  </g>
+
+  <!-- Text Content -->
+  <text x="50" y="90" class="title">Top R&amp;D Spenders</text>
+  <text x="50" y="125" class="subtitle">Tracking the flow of global innovation capital</text>
+</svg>
