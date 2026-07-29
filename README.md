@@ -2,15 +2,15 @@
   <img src="assets/banner.svg" alt="Top R&D Spenders Banner" width="100%">
 </p>
 
-# Top R&D Spenders Globally
+# Top R&D Spenders Globally 🌍💸
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-Welcome to the **Top-RnD-Spenders** repository. This project tracks and lists the top global companies by their approximate annual Research and Development (R&D) spending. Understanding where R&D capital flows provides insights into future technological advancements in industries like Cloud Computing, Artificial Intelligence, E-commerce, Semiconductors, Automotive, and Pharmaceuticals.
+Welcome to the **Top-RnD-Spenders** repository! 🚀 This project tracks and lists the top global companies by their approximate annual Research and Development (R&D) spending. Understanding where R&D capital flows provides insights into future technological advancements in industries like Cloud Computing ☁️, Artificial Intelligence 🤖, E-commerce 🛒, Semiconductors 🖥️, Automotive 🚗, and Pharmaceuticals 💊.
 
-## Top 10 Companies by Annual R&D Investment
+## Top 10 Companies by Annual R&D Investment 🏆📈
 
-| Rank | Company | Industry | Approximate Annual R&D Spending |
+| 🏅 Rank | 🏢 Company | 🏭 Industry | 💰 Approximate Annual R&D Spending |
 | :--- | :--- | :--- | :--- |
 | 1 | [Amazon](https://amazon.com) | E-commerce / Cloud | ~\$82.0 - \$96.2 Billion |
 | 2 | [Alphabet (Google)](https://abc.xyz) | Technology / Software | ~\$45.6 - \$54.2 Billion |
@@ -23,13 +23,13 @@ Welcome to the **Top-RnD-Spenders** repository. This project tracks and lists th
 | 9 | [NVIDIA](https://nvidia.com) | Semiconductors / AI Hardware | ~\$13.0 - \$18.4 Billion |
 | 10 | [Merck & Co.](https://merck.com) | Pharmaceuticals | ~\$13.5 - \$15.7 Billion |
 
-## Why R&D Spending Matters
+## Why R&D Spending Matters 💡🔍
 
 Research and Development (R&D) is a key indicator of a company's commitment to innovation and long-term growth. The leading tech giants and industrial leaders allocate billions to develop next-generation hardware, software, AI models, and medical treatments.
 
 **Keywords:** R&D Spending, Research and Development Budget, Top Tech Companies, Corporate Innovation, AI Investment, Global R&D Leaders, Amazon R&D, Google R&D, Tech Investments.
 
-##  Star History
+## Star History ⭐📉
 <div align="center">
 <a href="https://www.star-history.com/?repos=ishandutta2007%2FTop-RnD-Spenders&type=date&legend=bottom-right">
 <picture>
