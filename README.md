@@ -1,5 +1,7 @@
 # Top R&D Spenders Globally
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
 Welcome to the **Top-RnD-Spenders** repository. This project tracks and lists the top global companies by their approximate annual Research and Development (R&D) spending. Understanding where R&D capital flows provides insights into future technological advancements in industries like Cloud Computing, Artificial Intelligence, E-commerce, Semiconductors, Automotive, and Pharmaceuticals.
 
 ## Top 10 Companies by Annual R&D Investment
