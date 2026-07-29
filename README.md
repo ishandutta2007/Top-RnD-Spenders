@@ -24,3 +24,14 @@ Welcome to the **Top-RnD-Spenders** repository. This project tracks and lists th
 Research and Development (R&D) is a key indicator of a company's commitment to innovation and long-term growth. The leading tech giants and industrial leaders allocate billions to develop next-generation hardware, software, AI models, and medical treatments.
 
 **Keywords:** R&D Spending, Research and Development Budget, Top Tech Companies, Corporate Innovation, AI Investment, Global R&D Leaders, Amazon R&D, Google R&D, Tech Investments.
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FTop-RnD-Spenders&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Top-RnD-Spenders&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Top-RnD-Spenders&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Top-RnD-Spenders&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
